@@ -1,2 +1,0 @@
-# Simanto-Star.Github.io
- 

@@ -1,0 +1,230 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: arial;
+}
+.header_section {
+	width: 1349px;
+	height: 62px;
+    background: #826c6a;
+}
+.meanu_bar ul {
+	float: right;
+    font-size: 20px;
+}
+.meanu_bar ul li {
+    list-style: none;
+    margin-right: 76px;
+    display: inline-flex;
+    margin-top: 20px;
+}
+.meanu_bar ul li a {
+    text-decoration: none;
+    color: white;
+}
+.meanu_bar ul li a:hover {
+	color: #FF5722;
+}
+.Navigation_Meanu {
+    background: #363636;
+    height: 600px;
+    width: 1349px;
+}
+.picture img {
+    width: 811px;
+    height: 538px;
+    float: right;
+    margin-right: 71px;
+    margin-top: 33px;
+}
+.text_meanu {
+    margin-left: 71px;
+}
+.text_meanu h2 {
+	color: #f5f5f5;
+    margin-bottom: 10px;
+	font-size: 45px;
+	 font-family: ariall;
+}
+.text_meanu h5 {
+	color: #dc1d1d;
+    font-size: 15px;
+}
+.maincontenten_section {
+    width: 1343px;
+    height: 570px;
+    border: 3px solid green;
+	display: block;
+}
+.maincontenten_section h2 {
+    font-size: 50px;
+    color: #40af2cb3;
+    text-align: center;
+    margin-top: 165px;
+    margin-bottom: 30px;
+    font-family: ariall;
+}
+.maincontenten_section p {
+	width: 541px;
+    margin-left: 421px;
+    color: #5d9a24;
+    font-size: 20px;
+}
+.Blog_Section{
+	background: #1E1412;
+    width: 1349px;
+    height: 570px;
+    display: block;
+    overflow: hidden;
+}
+.blog_bar {
+    width: 300px;
+    height: 200px;
+    background: white;
+    float: right;
+    margin-top: 56px;
+    margin-right: 75px;
+
+}
+.blog_bar h2 {
+    color: #FF5722;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: 52px;
+}
+.blog_bar p {
+	width: 308px;
+    text-align: center;
+}
+.blog_bar:hover {
+	background: #F0A890;
+}
+.bar_blog {
+    width: 300px;
+    height: 200px;
+    background: white;
+    margin-top: 56px;
+    overflow: hidden;
+    margin-left: 527px;
+
+}
+.bar_blog h2 {
+    color: #FF5722;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: 52px;
+}
+.bar_blog p {
+	width: 308px;
+    text-align: center;
+}
+.bar_blog:hover {
+	background: #F0A890;
+}
+.Blogee {
+    width: 300px;
+    height: 200px;
+    background: white;
+    margin-top: -200px;
+    overflow: hidden;
+    margin-left: 76px;
+}
+.Blogee h2 {
+    color: #FF5722;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: 52px;
+}
+.Blogee p {
+	width: 303px;
+    text-align: center;
+}
+.Blogee:hover {
+	background: #F0A890;
+}	
+.Parks {
+    width: 300px;
+    height: 200px;
+    background: white;
+    overflow: hidden;
+    float: right;
+    margin-right: 75px;
+    margin-top: 56px;
+}
+.Parks h2 {
+    color: #FF5722;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: 52px;
+}
+.Parks p {
+	width: 296px;
+    text-align: center;
+}
+.Parks:hover {
+	background: #F0A890;
+}	
+.Books {
+    width: 300px;
+    height: 200px;
+    background: white;
+    overflow: hidden;
+    margin-top: 56px;
+    margin-left: 527px;
+}
+.Books h2 {
+    color: #FF5722;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: 52px;
+}
+.Books p {
+	width: 296px;
+    text-align: center;
+}
+.Books:hover {
+	background: #F0A890;
+}
+.End {
+    width: 300px;
+    height: 200px;
+    background: white;
+    overflow: hidden;
+    margin-top: -200px;
+    margin-left: 76px;
+}
+.End h2 {
+    color: #FF5722;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: 52px;
+}
+.End p {
+	width: 296px;
+    text-align: center;
+}
+.End:hover {
+	background: #F0A890;
+}
+.footer_section {
+	width: 1349px;
+    height: 185px;
+    background: #826c6a;
+    color: white;
+	overflow: hidden;
+}
+.footer_section h2 {
+	font-family: ariall;
+    text-align: center;
+    margin-top: 30px;
+}
+.footer_section h4 {
+    text-align: center;
+    margin-top: 13px;
+    font-family: ariall;
+}
+.footer_section h3 {
+	text-align: center;
+    margin-top: 13px;
+    font-family: ariall;
+}
